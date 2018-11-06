@@ -4,6 +4,8 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.agilean.dubbo.service.DemoService;
 
+
+
 public class Consumer {
 
 	public static void main(String[] args) {
